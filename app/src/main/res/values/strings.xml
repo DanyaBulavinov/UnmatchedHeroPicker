@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">UnmatchedHeroPicker</string>
+    <string name="start_screen">Options</string>
+    <string name="pick_character">Pick Character</string>
+    <string name="all_characters">All Characters</string>
+</resources>
